@@ -98,4 +98,8 @@
     <string name="lockscreen_charging_current_title">Lockscreen charging info</string>
     <string name="lockscreen_charging_current_summary">Display negociated charger max current and voltage on lockscreen</string>
 
+    <!-- Launch music player when headset is connected -->
+    <string name="headset_connect_player_title">Launch music app</string>
+    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+
 </resources>
